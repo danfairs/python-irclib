@@ -1,8 +1,8 @@
 #! /usr/bin/env python
 from setuptools import setup
-version = '0.0.0'
+version = '0.4.8.1'
 
-setup(name="python-irclib2",
+setup(name="python-irclib",
       version=version,
       py_modules=["irclib", "ircbot"],
       author="Joel Rosdahl",
